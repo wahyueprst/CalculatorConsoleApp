@@ -1,0 +1,33 @@
+E:\Praktikum\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+E:\Praktikum\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+E:\Praktikum\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+E:\Praktikum\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csprojResolveAssemblyReference.cache
+E:\Praktikum\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+E:\Praktikum\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
+D:\Downloads\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+D:\Downloads\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+D:\Downloads\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+D:\Downloads\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csprojAssemblyReference.cache
+D:\Downloads\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+D:\Downloads\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+D:\Downloads\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
+D:\Pemograman Lanjut\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+D:\Pemograman Lanjut\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
+D:\Pemograman Lanjut\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+D:\Pemograman Lanjut\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+D:\Pemograman Lanjut\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+D:\Pemograman Lanjut\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorMachine.dll
+D:\Pemograman Lanjut\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorMachine.pdb
+D:\Pemograman Lanjut\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csprojAssemblyReference.cache
+D:\Pemograman Lanjut\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+D:\Pemograman Lanjut\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CopyComplete
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorMachine.dll
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorMachine.pdb
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csprojAssemblyReference.cache
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CopyComplete
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
